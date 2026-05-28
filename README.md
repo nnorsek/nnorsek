@@ -1,7 +1,7 @@
 Hi, I'm Nicholas Norsek 👋 <br/>
 Charlotte 📍 <br/>
 <br/>
-Full Stack Developer with 1+ years of professional experience building and deploying production applications. I specialize in Java/Spring Boot backends and React/TypeScript frontends, with hands-on experience in cloud infrastructure, CI/CD pipelines, and database optimization.
+Full Stack Developer with 2+ years of professional experience building and deploying production applications. I specialize in Java/Spring Boot backends and React/TypeScript frontends, with hands-on experience in cloud infrastructure, CI/CD pipelines, and database optimization.
 What I work with:
 
 Languages & Frameworks: Java, Spring Boot, Go, TypeScript, React, SQL <br/>
